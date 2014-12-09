@@ -1,5 +1,5 @@
 name = ZOmega ACSF demo
-description = A powerful theme for ACSF demo purposes.
+description = A powerful theme for ACSF demo purposes designed by Nik Gregory.
 screenshot = screenshot.png
 engine = phptemplate
 core = 7.x
